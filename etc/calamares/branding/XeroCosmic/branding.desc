@@ -1,5 +1,5 @@
 ---
-componentName:  XeroG
+componentName:  XeroCosmic
 
 welcomeStyleCalamares:   false
 
@@ -12,13 +12,13 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         XeroG
-    shortProductName:    XeroG
-    version:             2025.02
-    shortVersion:        2023.02.14
-    versionedName:       XeroG
-    shortVersionedName:  XeroG
-    bootloaderEntryName: XeroG
+    productName:         XeroCosmic
+    shortProductName:    XeroCosmic
+    version:             2025.06
+    shortVersion:        2025.06.14
+    versionedName:       XeroCosmic
+    shortVersionedName:  XeroCosmic
+    bootloaderEntryName: XeroCosmic
     productUrl:          https://xerolinux.xyz/
     supportUrl:          https://xerolinux.xyz/
     releaseNotesUrl:     https://forum.xerolinux.xyz/thread-4.html
