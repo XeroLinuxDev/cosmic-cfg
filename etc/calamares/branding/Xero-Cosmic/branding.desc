@@ -1,5 +1,5 @@
 ---
-componentName:  XeroCosmic
+componentName:  Xero-Cosmic
 
 welcomeStyleCalamares:   false
 
@@ -12,16 +12,16 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         XeroCosmic
-    shortProductName:    XeroCosmic
+    productName:         Xero-Cosmic
+    shortProductName:    Xero-Cosmic
     version:             2025.06
     shortVersion:        2025.06.14
-    versionedName:       XeroCosmic
-    shortVersionedName:  XeroCosmic
-    bootloaderEntryName: XeroCosmic
+    versionedName:       Xero-Cosmic
+    shortVersionedName:  Xero-Cosmic
+    bootloaderEntryName: Xero-Cosmic
     productUrl:          https://xerolinux.xyz/
     supportUrl:          https://xerolinux.xyz/
-    releaseNotesUrl:     https://forum.xerolinux.xyz/thread-4.html
+    #releaseNotesUrl:     https://forum.xerolinux.xyz/thread-4.html
 
 
 uploadServer :
