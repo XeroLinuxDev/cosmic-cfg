@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_US]=Installer for XeroLinux
+Exec=sudo -E calamares
+Icon=calamares
+Keywords=calamares;system;installer;
+MimeType=
+Name[en_US]=Install XeroLinux
+Name=Install XeroLinux
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-AppStream-Ignore=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=
