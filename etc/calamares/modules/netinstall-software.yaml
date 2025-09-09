@@ -1,41 +1,3 @@
-- name: "nVidia Closed Drivers"
-  description: "Legacy Pre-Turing nVidia Cards"
-  critical: false
-  hidden: false
-  selected: false
-  expanded: false
-  packages:
-    - libvdpau
-    - egl-wayland
-    - nvidia-dkms
-    - nvidia-utils
-    - opencl-nvidia
-    - libvdpau-va-gl
-    - nvidia-settings
-    - vulkan-icd-loader
-    - lib32-nvidia-utils
-    - lib32-opencl-nvidia
-    - linux-firmware-nvidia
-    - lib32-vulkan-icd-loader
-- name: "nVidia Open Drivers"
-  description: "Turing nVidia Cards (1650ti+)"
-  critical: false
-  hidden: false
-  selected: false
-  expanded: false
-  packages:
-    - libvdpau
-    - egl-wayland
-    - nvidia-utils
-    - opencl-nvidia
-    - libvdpau-va-gl
-    - nvidia-settings
-    - nvidia-open-dkms
-    - vulkan-icd-loader
-    - lib32-nvidia-utils
-    - lib32-opencl-nvidia
-    - linux-firmware-nvidia
-    - lib32-vulkan-icd-loader
 - name: "Browser"
   description: "Web Browser"
   critical: false
@@ -47,7 +9,7 @@
     - firefox
     - brave-bin
     - librewolf
-- name: "Git"
+- name: "Git Stuff"
   description: "Git Applications"
   critical: false
   hidden: false
@@ -55,6 +17,7 @@
   expanded: false
   packages:
     - gittyup
+    - lazygit
     - github-desktop
 - name: "Password Manager"
   description: "Password Managers"
