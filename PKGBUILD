@@ -1,8 +1,8 @@
 # Maintainer: DarkXero <info@techxero.com>
-pkgname=calamares-cosmic-cfg
+pkgname=cosmic-cfg
 _destname1="/etc"
 pkgver=3.4.0
-pkgrel=29
+pkgrel=20
 pkgdesc="calamares Config for XeroLinux"
 arch=('any')
 url="https://github.com/XeroLinuxDev"
